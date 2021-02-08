@@ -15,3 +15,5 @@ function zipListTheSimpleWay(list1, list2) {
 
 console.log(zipList(['a', 'b', 'c'], [1, 2, 3]));
 console.log(zipListTheSimpleWay(['a', 'b', 'c'], [1, 2, 3]));
+
+// Attempt 1 - 9:43.56
