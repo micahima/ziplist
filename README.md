@@ -1,3 +1,3 @@
 # ziplist
 
-// Attempt 1 - 9:43.56
+Attempt 1 - 9:43.56
